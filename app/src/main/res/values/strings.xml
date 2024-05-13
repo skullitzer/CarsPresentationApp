@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidTermExam_VaradPatil</string>
+    <string name="cars_presentation">Cars Presentation</string>
+    <string name="finish">Finish</string>
+    <string name="info">Info</string>
+    <string name="brand">Brand :</string>
+    <string name="km">Km :</string>
+</resources>
